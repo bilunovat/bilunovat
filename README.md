@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👩🏼‍💻 About
 
-<!--
-**bilunovat/bilunovat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a backend engineer completing an MSc in Computer Science, specialising in Java and Spring Boot.
+Started with C to build a strong foundation. Currently designing and implementing an automated least-privilege policy
+framework as my dissertation. My hobby is building split mechanical keyboards from soldering to programming.
+[My LinkedIn](https://www.linkedin.com/in/tkulagina/)
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### 🔧 Languages
+[![My Skills](https://skillicons.dev/icons?i=java,c,mysql,js,html,css)](https://skillicons.dev)
+
+### 🗄️ Backend
+[![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq,maven)](https://skillicons.dev)
+
+### 🔄 Infrastructure & Observability
+[![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,prometheus,grafana)](https://skillicons.dev)
+
+</br>
+
+**As well as: Spring AOP, OPA, REST APIs and JUnit.**
