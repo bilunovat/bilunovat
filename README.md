@@ -1,7 +1,7 @@
 ## 👩🏼‍💻 About
 
-I am a backend engineer with an MSc in Computer Science, specialising in Java and Spring Boot.
-Started with C to build a strong foundation. Built an automated least-privilege policy framework as my dissertation.
+I am a backend engineer, specialising in Java and Spring Boot, with a strong foundation in C.
+Built an automated least-privilege policy framework for microservices.
 My hobby is building split mechanical keyboards from soldering to programming.
 
 [My LinkedIn](https://www.linkedin.com/in/tkulagina/)
