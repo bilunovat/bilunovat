@@ -11,7 +11,7 @@ My hobby is building split mechanical keyboards from soldering to programming.
 ## 💻 Tech Stack
 
 ### 🔧 Languages
-[![My Skills](https://skillicons.dev/icons?i=java,c,mysql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,mysql,js,html,css)](https://skillicons.dev)
 
 ### 🗄️ Backend
 [![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq,maven)](https://skillicons.dev)
@@ -21,4 +21,4 @@ My hobby is building split mechanical keyboards from soldering to programming.
 
 </br>
 
-**As well as: Spring AOP, OPA, REST APIs and JUnit.**
+**As well as: Spring AOP, OPA, REST APIs, microservices, Claude Code and JUnit.**
